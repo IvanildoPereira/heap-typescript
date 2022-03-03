@@ -1,0 +1,23 @@
+{
+  "name": "heap",
+  "version": "1.0.0",
+  "description": "A min-heap in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heap",
+    "min-heap",
+    "typescript",
+    "javascript",
+    "datastruct"
+  ],
+  "author": "Ivanildo Pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3"
+  }
+}
